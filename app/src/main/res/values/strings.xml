@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ButtonTextViewEditText</string>
+    <string name="title">Welcome</string>
+    <string name="hint_name">Enter Your Name</string>
+    <string name="button">Show Name</string>
+    <string name="result">Result</string>
+    <string name="Welcome">Welcome</string>
+</resources>
